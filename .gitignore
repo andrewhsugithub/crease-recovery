@@ -1,0 +1,11 @@
+﻿results/
+mask/
+clean/
+extractedObj/
+
+*.py
+
+*.zip
+*.jpg
+
+.env
