@@ -4,9 +4,9 @@ crease recovery on mainly paper and clothes or you can try other kind of texture
 
 ## Demo
 
-![demo1](https://github.com/andrewhsugithub/employee_scheduler/blob/master/assets/images/output.png)
+![demo1](https://github.com/andrewhsugithub/crease-recovery/blob/main/assets/output1.png)
 
-![demo2](https://github.com/andrewhsugithub/employee_scheduler/blob/master/assets/images/output.png)
+![demo2](https://github.com/andrewhsugithub/crease-recovery/blob/main/assets/output2.png)
 
 ## How To Use
 
