@@ -7,5 +7,6 @@ extractedObj/
 
 *.zip
 *.jpg
+*.png
 
 .env
