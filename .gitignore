@@ -3,10 +3,10 @@ mask/
 clean/
 extractedObj/
 
-*.py
+/*.py
 
-*.zip
-*.jpg
-*.png
+/*.zip
+/*.jpg
+/*.png
 
 .env
